@@ -29,7 +29,7 @@ SMALL DESCRIPTION
 | [Diffgram](https://github.com/diffgram/diffgram) | Training Data (Data Labeling, Annotation, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale ![](https://img.shields.io/github/stars/diffgram/diffgram?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | ELv2 |
 | [Hover](https://github.com/phurwicz/hover) | Explore and label on a map of raw data ![](https://img.shields.io/github/stars/phurwicz/hover?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Label Studio](https://github.com/heartexlabs/label-studio) | A multi-type data labeling and annotation tool with standardized output format ![](https://img.shields.io/github/stars/heartexlabs/label-studio?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
-| [Pigeon](https://github.com/agermanidis/pigeon) | simple widget that lets you quickly annotate a dataset of unlabeled examples from the comfort of your Jupyter notebook ![](https://img.shields.io/github/stars/agermanidis/pigeon?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Pigeon](https://github.com/agermanidis/pigeon) | A simple widget that lets you quickly annotate a dataset of unlabeled examples from the comfort of your Jupyter notebook ![](https://img.shields.io/github/stars/agermanidis/pigeon?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [Tator](https://github.com/cvisionai/tator) | Video analytics web platform ![](https://img.shields.io/github/stars/cvisionai/tator?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
 | [TornadoAi](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) | A human-in-the-loop machine learning framework ![](https://img.shields.io/github/stars/slrbl/human-in-the-loop-machine-learning-tool-tornado?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
 | [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) | A web/desktop app for editing and annotating images, text, audio, documents and to view and edit any data defined in the extensible .udt.json and .udt.csv standard ![](https://img.shields.io/github/stars/UniversalDataTool/universal-data-tool?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
@@ -53,21 +53,23 @@ SMALL DESCRIPTION
 
 # Images
 
-- [Annotorious](https://github.com/recogito/annotorious)
-- [CATMAID](https://github.com/catmaid/CATMAID)
-- [COCO Annotator](https://github.com/jsbroks/coco-annotator)
-- [DeepLabel](https://github.com/jveitchmichaelis/deeplabel)
-- [ilastik](https://github.com/ilastik/ilastik)
-- [imglab](https://github.com/NaturalIntelligence/imglab)
-- [KNOSSOS](https://github.com/knossos-project/knossos)
-- [labelme](https://github.com/wkentaro/labelme)
-- [LabelImg](https://github.com/tzutalin/labelImg)
-- [LOST](https://github.com/l3p-cv/lost)
-- [Make Sense](https://github.com/SkalskiP/make-sense)
-- [OpenLabeler](https://github.com/kinhong/OpenLabeler)
-- [Pixano](https://github.com/pixano/pixano-app)
-- [Scalabel](https://github.com/scalabel/scalabel)
-- [webKnossos](https://github.com/scalableminds/webknossos)
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [Annotorious](https://github.com/recogito/annotorious) | A JavaScript library for image annotation ![](https://img.shields.io/github/stars/recogito/annotorious?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
+| [CATMAID](https://github.com/catmaid/CATMAID) | The Collaborative Annotation Toolkit for Massive Amounts of Image Data ![](https://img.shields.io/github/stars/catmaid/CATMAID?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [COCO Annotator](https://github.com/jsbroks/coco-annotator) | A web-based image segmentation tool for object detection, localization, and keypoints ![](https://img.shields.io/github/stars/jsbroks/coco-annotator?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) | A cross-platform desktop image annotation tool for machine learning ![](https://img.shields.io/github/stars/jveitchmichaelis/deeplabel?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [ilastik](https://github.com/ilastik/ilastik) | Segment, classify, track and count your cells or other experimental data ![](https://img.shields.io/github/stars/ilastik/ilastik?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [imglab](https://github.com/NaturalIntelligence/imglab) | A web based tool to label images for objects that can be used to train dlib or other object detectors ![](https://img.shields.io/github/stars/NaturalIntelligence/imglab?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [KNOSSOS](https://github.com/knossos-project/knossos) | A software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity ![](https://img.shields.io/github/stars/knossos-project/knossos?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-2 |
+| [labelme](https://github.com/wkentaro/labelme) | Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation) ![](https://img.shields.io/github/stars/wkentaro/labelme?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [LabelImg](https://github.com/tzutalin/labelImg) | A graphical image annotation tool and label object bounding boxes in images ![](https://img.shields.io/github/stars/tzutalin/labelImg?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [LOST](https://github.com/l3p-cv/lost) | A flexible web-based framework for semi-automatic image annotation ![](https://img.shields.io/github/stars/l3p-cv/lost?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Make Sense](https://github.com/SkalskiP/make-sense) | A free-to-use online tool for labeling photos ![](https://img.shields.io/github/stars/SkalskiP/make-sense?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [OpenLabeler](https://github.com/kinhong/OpenLabeler) | An open source desktop application for annotating objects for AI appplications ![](https://img.shields.io/github/stars/kinhong/OpenLabeler?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Pixano](https://github.com/pixano/pixano-app) | A web-based smart-annotation tool for computer vision applications ![](https://img.shields.io/github/stars/pixano/pixano-app?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | CeCILL-C |
+| [Scalabel](https://github.com/scalabel/scalabel) | A web-based visual data annotation tool, supporting both 2D and 3D data labeling ![](https://img.shields.io/github/stars/scalabel/scalabel?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [webKnossos](https://github.com/scalableminds/webknossos) | A fully cloud- and browser-based 3D annotation tool for distributed large-scale data analysis in light- and electron-microscopy based Connectomics ![](https://img.shields.io/github/stars/scalableminds/webknossos?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
 
 # Video
 
