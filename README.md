@@ -98,37 +98,29 @@ TEXT GOES HERE
 
 # Video
 
-| Name | Description | License | Maintained |
-| ---- | ----------- | ------- | ---------- |
-| [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop. | Apache-2 | ✅ |
-| [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) | A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker | MIT | ❌ |
-| [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) | A tool for annotating videos with metadata, ranging from things like genre and location of cuts to person tracking and recognition. | ? | ❌ |
-| [MuViLab](https://github.com/ale152/muvilab) | MUltiple VIdeos LABelling tool | Free / non-commercial | ❌ |
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop ![](https://img.shields.io/github/stars/Kitware/dive?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 
 # Audio
 
-| Name | Description | License | Maintained |
-| ---- | ----------- | ------- | ---------- |
-| [aubio](https://aubio.org) | A library for audio and music analysis | GPL-3 | ✅ |
-| [Praat](https://github.com/praat/praat) | Annotation tool for phonetics analysis | GPL-3 | ✅ |
-| [Peaks.js](https://github.com/bbc/peaks.js) | JavaScript UI component for interacting with audio waveforms | LGPL-3 | ✅ |
-| [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) | Navigable waveform built on Web Audio and Canvas | BSD-3 | ✅ |
-| [audino](https://github.com/midas-research/audino) | Open source audio annotation tool | MIT | ✅ |
-| [EchoML](https://github.com/ritazh/EchoML) | A web app to play, visualize, and annotate audio files | MIT | ❌ |
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [aubio](https://aubio.org) | A library for audio and music analysis ![](https://img.shields.io/github/stars/aubio/aubio?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [Praat](https://github.com/praat/praat) | Annotation tool for phonetics analysis ![](https://img.shields.io/github/stars/praat/praat?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [Peaks.js](https://github.com/bbc/peaks.js) | JavaScript UI component for interacting with audio waveforms ![](https://img.shields.io/github/stars/bbc/peaks.js?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | LGPL-3 |
+| [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) | Navigable waveform built on Web Audio and Canvas ![](https://img.shields.io/github/stars/katspaugh/wavesurfer.js?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
+| [audino](https://github.com/midas-research/audino) | Open source audio annotation tool ![](https://img.shields.io/github/stars/midas-research/audino?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 
 # Time Series
 
-| Name | Description | License | Maintenance |
-| ---- | ----------- | ------- | ----------- |
-| [sktime](https://www.sktime.org/en/stable/index.html) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/alan-turing-institute/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 | ✅ |
-| [TagAnomaly](https://github.com/Microsoft/TagAnomaly) | Anomaly detection analysis and labeling tool, specifically for multiple time series ![](https://img.shields.io/github/stars/Microsoft/TagAnomaly?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
-| [Wearables Development Toolkit (WDK)](https://github.com/avenix/WDK) | A development environment for activity recognition applications with sensor signals ![](https://img.shields.io/github/stars/avenix/WDK?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
-| [Dynitag](https://github.com/dynilib/dynitag) | Collaborative audio annotation tool ![](https://img.shields.io/github/stars/dynilib/dynitag?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
-| [audio-annotator](https://github.com/CrowdCurio/audio-annotator) | A JavaScript interface for annotating and labeling audio files ![](https://img.shields.io/github/stars/CrowdCurio/audio-annotator?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-2 | ❌ |
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [sktime](https://www.sktime.org/en/stable/index.html) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/alan-turing-institute/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
 
 # Other
 
-| Name | Description | License | Maintained |
-| ---- | ----------- | ------- | ---------- |
-| [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ✅ |
-| [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ✅ |
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
