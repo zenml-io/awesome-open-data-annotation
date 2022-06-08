@@ -13,6 +13,12 @@ particular tool could make it into the list:
 We welcome contributions to this list, so if you know of a tool that
 we've missed or if you've built one yourself, please do create a PR!
 
+**Do you use these tools or do you want to add one to your MLOps stack?** At
+ZenML, we are looking for design partnerships and collaboration to develop the
+integrations and workflows around using annotation within the MLOps lifecycle.
+If you'd like to learn more, please [join our
+Slack](https://zenml.io/slack-invite/) and leave us a message!
+
 ## Contents
 
 - [Multi Modal / Multi Domain](#multi-modal-multi-domain)
