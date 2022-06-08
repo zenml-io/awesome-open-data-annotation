@@ -123,5 +123,8 @@ TEXT GOES HERE
 
 # Other
 
-- [OpenCRAVAT](https://github.com/KarchinLab/open-cravat)
-- [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr)
+| Name | Description | License | Maintained |
+| ---- | ----------- | ------- | ---------- |
+| [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants | MIT | ✅ |
+| [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine | MIT | ✅ |
+[Text]
