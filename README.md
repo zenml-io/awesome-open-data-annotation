@@ -98,27 +98,33 @@ TEXT GOES HERE
 
 # Video
 
-- [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling)
-- [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/)
-- [DIVE](https://github.com/Kitware/dive)
-- [MuViLab](https://github.com/ale152/muvilab)
+| Name | Description | License | Maintained |
+| ---- | ----------- | ------- | ---------- |
+| [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop. | Apache-2 | ✅ |
+| [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) | A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker | MIT | ❌ |
+| [ViPER-GT](http://viper-toolkit.sourceforge.net/products/gt/) | A tool for annotating videos with metadata, ranging from things like genre and location of cuts to person tracking and recognition. | ? | ❌ |
+| [MuViLab](https://github.com/ale152/muvilab) | MUltiple VIdeos LABelling tool | Free / non-commercial | ❌ |
 
 # Audio
 
-- [EchoML](https://github.com/ritazh/EchoML)
-- [aubio](https://aubio.org)
-- [Praat](https://github.com/praat/praat)
-- [Peaks.js](https://github.com/bbc/peaks.js)
-- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)
-- [audino](https://github.com/midas-research/audino)
+| Name | Description | License | Maintained |
+| ---- | ----------- | ------- | ---------- |
+| [aubio](https://aubio.org) | A library for audio and music analysis | GPL-3 | ✅ |
+| [Praat](https://github.com/praat/praat) | Annotation tool for phonetics analysis | GPL-3 | ✅ |
+| [Peaks.js](https://github.com/bbc/peaks.js) | JavaScript UI component for interacting with audio waveforms | LGPL-3 | ✅ |
+| [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) | Navigable waveform built on Web Audio and Canvas | BSD-3 | ✅ |
+| [audino](https://github.com/midas-research/audino) | Open source audio annotation tool | MIT | ✅ |
+| [EchoML](https://github.com/ritazh/EchoML) | A web app to play, visualize, and annotate audio files | MIT | ❌ |
 
 # Time Series
 
-- [TagAnomaly](https://github.com/Microsoft/TagAnomaly) UNMAINTAINED
-- [Wearables Development Toolkit (WDK)](https://github.com/avenix/WDK)
-- [Dynitag](https://github.com/dynilib/dynitag)
-- [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
-- [sktime](https://www.sktime.org/en/stable/index.html)
+| Name | Description | License | Maintenance |
+| ---- | ----------- | ------- | ----------- |
+| [sktime](https://www.sktime.org/en/stable/index.html) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/alan-turing-institute/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 | ✅ |
+| [TagAnomaly](https://github.com/Microsoft/TagAnomaly) | Anomaly detection analysis and labeling tool, specifically for multiple time series ![](https://img.shields.io/github/stars/Microsoft/TagAnomaly?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
+| [Wearables Development Toolkit (WDK)](https://github.com/avenix/WDK) | A development environment for activity recognition applications with sensor signals ![](https://img.shields.io/github/stars/avenix/WDK?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
+| [Dynitag](https://github.com/dynilib/dynitag) | Collaborative audio annotation tool ![](https://img.shields.io/github/stars/dynilib/dynitag?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT | ❌ |
+| [audio-annotator](https://github.com/CrowdCurio/audio-annotator) | A JavaScript interface for annotating and labeling audio files ![](https://img.shields.io/github/stars/CrowdCurio/audio-annotator?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-2 | ❌ |
 
 # Other
 
