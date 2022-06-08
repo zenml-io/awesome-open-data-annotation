@@ -22,7 +22,6 @@ SMALL DESCRIPTION
 - [Label Studio](https://labelstud.io/)
 - [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat)
 - [Sloth](https://github.com/cvhciKIT/sloth)
-- [Labelbox](https://github.com/Labelbox/Labelbox)
 - [Universal Data Tool](https://universaldatatool.com)
 - [VIAME](https://www.viametoolkit.org)
 - [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/)
