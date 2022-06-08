@@ -29,6 +29,7 @@ SMALL DESCRIPTION
 | [Diffgram](https://github.com/diffgram/diffgram) | Training Data (Data Labeling, Annotation, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale ![](https://img.shields.io/github/stars/diffgram/diffgram?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | ELv2 |
 | [Hover](https://github.com/phurwicz/hover) | Explore and label on a map of raw data ![](https://img.shields.io/github/stars/phurwicz/hover?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Label Studio](https://github.com/heartexlabs/label-studio) | A multi-type data labeling and annotation tool with standardized output format ![](https://img.shields.io/github/stars/heartexlabs/label-studio?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Pigeon](https://github.com/agermanidis/pigeon) | simple widget that lets you quickly annotate a dataset of unlabeled examples from the comfort of your Jupyter notebook ![](https://img.shields.io/github/stars/agermanidis/pigeon?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [Tator](https://github.com/cvisionai/tator) | Video analytics web platform ![](https://img.shields.io/github/stars/cvisionai/tator?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
 | [TornadoAi](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) | A human-in-the-loop machine learning framework ![](https://img.shields.io/github/stars/slrbl/human-in-the-loop-machine-learning-tool-tornado?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
 | [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) | A web/desktop app for editing and annotating images, text, audio, documents and to view and edit any data defined in the extensible .udt.json and .udt.csv standard ![](https://img.shields.io/github/stars/UniversalDataTool/universal-data-tool?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
@@ -37,18 +38,18 @@ SMALL DESCRIPTION
 
 # Text
 
-TEXT GOES HERE
-
-- [CoreNLP](https://github.com/stanfordnlp/CoreNLP)
-- [DataQA](https://github.com/dataqa/dataqa)
-- [doccano](https://github.com/doccano/doccano)
-- [FLAT - FoLiA Linguistic Annotation Tool](https://github.com/proycon/flat)
-- [INCEpTION](https://github.com/inception-project/inception)
-- [Rubrix](https://www.rubrix.ml)
-- [SMART](https://github.com/RTIInternational/SMART)
-- [SpaCy annotator](https://github.com/ieriii/spacy-annotator)
-- [TALEN](https://github.com/CogComp/talen)
-- [YEDDA](https://github.com/jiesutd/YEDDA)
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [CoreNLP](https://github.com/stanfordnlp/CoreNLP) | A Java suite of core NLP tools ![](https://img.shields.io/github/stars/stanfordnlp/CoreNLP?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [DataQA](https://github.com/dataqa/dataqa) | Labelling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/dataqa?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [doccano](https://github.com/doccano/doccano) | An open source text annotation tool supporting text classification, sequence labeling and sequence to sequence tasks ![](https://img.shields.io/github/stars/doccano/doccano?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [FLAT - FoLiA Linguistic Annotation Tool](https://github.com/proycon/flat) | A web-based linguistic annotation environment based around the FoLiA format, an XML-based format for linguistic annotation ![](https://img.shields.io/github/stars/proycon/flat?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [INCEpTION](https://github.com/inception-project/inception) | A semantic annotation platform offering intelligent annotation assistance and knowledge management ![](https://img.shields.io/github/stars/inception-project/inception?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Rubrix](https://github.com/recognai/rubrix) | A production-ready Python framework for exploring, annotating, and managing data in NLP projects ![](https://img.shields.io/github/stars/recognai/rubrix?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [SMART](https://github.com/RTIInternational/SMART) | A tool for building labeled training datasets for supervised machine learning tasks in NLP ![](https://img.shields.io/github/stars/RTIInternational/SMART?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [SpaCy annotator](https://github.com/ieriii/spacy-annotator) | Spacy NER annotator using ipywidgets ![](https://img.shields.io/github/stars/ieriii/spacy-annotator?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | N/A |
+| [TALEN](https://github.com/CogComp/talen) | A way to do annotations for NER ![](https://img.shields.io/github/stars/CogComp/talen?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [YEDDA](https://github.com/jiesutd/YEDDA) | A lightweight collaborative text span annotation tool ![](https://img.shields.io/github/stars/jiesutd/YEDDA?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 
 # Images
 
@@ -96,3 +97,7 @@ TEXT GOES HERE
 | ---- | ----------- | ------- |
 | [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+
+# Acknowledgements
+
+TEXT GOES HERE
