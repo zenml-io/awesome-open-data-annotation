@@ -19,28 +19,25 @@ SMALL DESCRIPTION
 
 # Multi Modal / Multi Domain
 
-- [Label Studio](https://labelstud.io/)
-- [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat)
-- [Sloth](https://github.com/cvhciKIT/sloth)
-- [Universal Data Tool](https://universaldatatool.com)
-- [VIAME](https://www.viametoolkit.org)
-- [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/)
-- [Tator](https://github.com/cvisionai/tator)
-- [multimedia-annotator](https://github.com/dsgou/annotator)
-- [Diffgram](https://github.com/diffgram/diffgram)
-- [DataGym](https://github.com/datagym-ai/datagym-core)
-- [Classifai](https://github.com/CertifaiAI/classifai)
-- [Hover](https://github.com/phurwicz/hover)
-- [Data Annotator for Machine Learning (DAML)](https://github.com/vmware/data-annotator-for-machine-learning)
-- [Trunklucator](https://github.com/Dumbris/trunklucator)
-- [TornadoAi](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado)
-- [Acharya](https://acharya.astutic.com)
+| Name | Description | License |
+| ---- | ----------- | ------- |
+| [Label Studio](https://github.com/heartexlabs/label-studio) | A multi-type data labeling and annotation tool with standardized output format ![](https://img.shields.io/github/stars/heartexlabs/label-studio?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat) | A free, online, interactive video and image annotation tool for computer vision ![](https://img.shields.io/github/stars/openvinotoolkit/cvat?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) | A web/desktop app for editing and annotating images, text, audio, documents and to view and edit any data defined in the extensible .udt.json and .udt.csv standard ![](https://img.shields.io/github/stars/UniversalDataTool/universal-data-tool?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [VIAME](https://github.com/VIAME/VIAME) | Video and Image Analytics for Multiple Environments ![](https://img.shields.io/github/stars/VIAME/VIAME?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [VGG Image Annotator (VIA)](https://gitlab.com/vgg/via) | A standalone image annotator application packaged as a single HTML file (< 400 KB) that runs on most modern web browsers | BSD-2 |
+| [Tator](https://github.com/cvisionai/tator) | Video analytics web platform ![](https://img.shields.io/github/stars/cvisionai/tator?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
+| [Diffgram](https://github.com/diffgram/diffgram) | Training Data (Data Labeling, Annotation, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale ![](https://img.shields.io/github/stars/diffgram/diffgram?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | ELv2 |
+| [DataGym](https://github.com/datagym-ai/datagym-core) | Open source annotation and labeling tool for image and video assets ![](https://img.shields.io/github/stars/datagym-ai/datagym-core?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Classifai](https://github.com/CertifaiAI/classifai) | A comprehensive open-source data annotation platform ![](https://img.shields.io/github/stars/CertifaiAI/classifai?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Hover](https://github.com/phurwicz/hover) | Explore and label on a map of raw data ![](https://img.shields.io/github/stars/phurwicz/hover?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Data Annotator for Machine Learning (DAML)](https://github.com/vmware/data-annotator-for-machine-learning) | An application that helps machine learning teams facilitating the creation and management of annotations ![](https://img.shields.io/github/stars/vmware/data-annotator-for-machine-learning?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [TornadoAi](https://github.com/slrbl/human-in-the-loop-machine-learning-tool-tornado) | A human-in-the-loop machine learning framework ![](https://img.shields.io/github/stars/slrbl/human-in-the-loop-machine-learning-tool-tornado?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | AGPL-3 |
+| [Acharya](https://github.com/astutic/Acharya) | A Data Centric MLOps tool for your Named Entity Recognition projects ![](https://img.shields.io/github/stars/astutic/Acharya?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | ? |
 
 # Text
 
 TEXT GOES HERE
-
-[insert table]
 
 - [Rubrix](https://www.rubrix.ml)
 - [Piaf](https://github.com/etalab/piaf)
@@ -100,7 +97,7 @@ TEXT GOES HERE
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
-| [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop ![](https://img.shields.io/github/stars/Kitware/dive?color=pink&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop ![](https://img.shields.io/github/stars/Kitware/dive?color=orange&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 
 # Audio
 
