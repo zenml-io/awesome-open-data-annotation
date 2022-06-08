@@ -1,11 +1,17 @@
-# Open Source Data Annotation & Labelling Tools
+# 🏷 Open Source Data Annotation & Labelling Tools
 
-SMALL DESCRIPTION
+At ZenML we believe that annotation and labelling workflows are a core part of
+the machine learning lifecycle. As an open-source tool, we wanted to highlight
+and recognize the variety of tools that are available to help your workflows
+become more data-centric. We had three core criteria to decide whether a
+particular tool could make it into the list:
 
-- OS Licence
-- Actively maintained
-- Functional
+- The tool has an open-source licence.
+- The tool is actively maintained.
+- The tool is functional and fit for purpose.
 
+We welcome contributions to this list, so if you know of a tool that
+we've missed or if you've built one yourself, please do create a PR!
 
 ## Contents
 
@@ -99,7 +105,3 @@ SMALL DESCRIPTION
 | ---- | ----------- | ------- |
 | [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
-
-# Acknowledgements
-
-TEXT GOES HERE
