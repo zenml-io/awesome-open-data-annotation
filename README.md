@@ -113,3 +113,14 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | ---- | ----------- | ------- |
 | [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+
+# Acknowledgements
+
+Thanks to the creators of
+[these](https://github.com/jsbroks/awesome-dataset-tools)
+[other](https://github.com/doccano/awesome-annotation-tools)
+[repositories](https://github.com/taivop/awesome-data-annotation) (and [this
+one](https://github.com/heartexlabs/awesome-data-labeling)!) for getting us
+going down the path of creating our own. I used these efforts to get started in
+my survey of the space before adding, updating and pruning as per the
+open-source and other criteria specified above.
