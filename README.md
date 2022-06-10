@@ -1,6 +1,8 @@
 # 🏷 Open Source Data Annotation & Labelling Tools
 
-At ZenML we believe that annotation and labelling workflows are a core part of
+[![maintained-by-zenml](https://user-images.githubusercontent.com/3348134/173032050-ad923313-f2ce-4583-b27a-afcaa8b355e2.png)](https://github.com/zenml-io/zenml)
+
+At [ZenML](https://github.com/zenml-io/zenml) we believe that annotation and labelling workflows are a core part of
 the machine learning lifecycle. As an open-source tool, we wanted to highlight
 and recognize the variety of tools that are available to help your workflows
 become more data-centric. We had three core criteria to decide whether a
