@@ -1,4 +1,4 @@
-# 🏷 Open Source Data Annotation & Labelling Tools
+# 🏷 Open Source Data Annotation & Labeling Tools
 
 [![maintained-by-zenml](https://user-images.githubusercontent.com/3348134/173032050-ad923313-f2ce-4583-b27a-afcaa8b355e2.png)](https://github.com/zenml-io/zenml)
 
