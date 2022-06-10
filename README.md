@@ -64,6 +64,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | [SpaCy annotator](https://github.com/ieriii/spacy-annotator) | Spacy NER annotator using ipywidgets ![](https://img.shields.io/github/stars/ieriii/spacy-annotator?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | N/A |
 | [TALEN](https://github.com/CogComp/talen) | A way to do annotations for NER ![](https://img.shields.io/github/stars/CogComp/talen?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
 | [YEDDA](https://github.com/jiesutd/YEDDA) | A lightweight collaborative text span annotation tool ![](https://img.shields.io/github/stars/jiesutd/YEDDA?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [Programmatic](https://programmatic.humanloop.com/) | A text annotation tool that combines advances in weak supervision with data-centric UI to get annotated data, fast. | N/A |
 
 # Images
 
