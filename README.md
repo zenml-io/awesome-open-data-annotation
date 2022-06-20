@@ -2,7 +2,7 @@
 
 [![maintained-by-zenml](https://user-images.githubusercontent.com/3348134/173032050-ad923313-f2ce-4583-b27a-afcaa8b355e2.png)](https://github.com/zenml-io/zenml)
 
-At [ZenML](https://github.com/zenml-io/zenml) we believe that annotation and labelling workflows are a core part of
+At [ZenML](https://github.com/zenml-io/zenml) we believe that annotation and labeling workflows are a core part of
 the machine learning lifecycle. As an open-source tool, we wanted to highlight
 and recognize the variety of tools that are available to help your workflows
 become more data-centric. We had three core criteria to decide whether a
@@ -56,7 +56,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | ---- | ----------- | ------- |
 | [Annotation Lab](https://nlp.johnsnowlabs.com/docs/en/alab/quickstart) | An NLP annotation tool included in `spark-nlp` ![](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [CoreNLP](https://github.com/stanfordnlp/CoreNLP) | A Java suite of core NLP tools ![](https://img.shields.io/github/stars/stanfordnlp/CoreNLP?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
-| [DataQA](https://github.com/dataqa/dataqa) | Labelling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/dataqa?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [DataQA](https://github.com/dataqa/dataqa) | Labeling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/dataqa?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [doccano](https://github.com/doccano/doccano) | An open source text annotation tool supporting text classification, sequence labeling and sequence to sequence tasks ![](https://img.shields.io/github/stars/doccano/doccano?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [FLAT - FoLiA Linguistic Annotation Tool](https://github.com/proycon/flat) | A web-based linguistic annotation environment based around the FoLiA format, an XML-based format for linguistic annotation ![](https://img.shields.io/github/stars/proycon/flat?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [INCEpTION](https://github.com/inception-project/inception) | A semantic annotation platform offering intelligent annotation assistance and knowledge management ![](https://img.shields.io/github/stars/inception-project/inception?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
@@ -79,7 +79,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | [ImageTagger](https://github.com/bit-bots/imagetagger) | An open source online platform for collaborative image labeling ![](https://img.shields.io/github/stars/bit-bots/imagetagger?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [imglab](https://github.com/NaturalIntelligence/imglab) | A web based tool to label images for objects that can be used to train dlib or other object detectors ![](https://img.shields.io/github/stars/NaturalIntelligence/imglab?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [KNOSSOS](https://github.com/knossos-project/knossos) | A software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity ![](https://img.shields.io/github/stars/knossos-project/knossos?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-2 |
-| [LabelFlow](https://github.com/labelflow/labelflow) | An open platform for image labelling ![](https://img.shields.io/github/stars/labelflow/labelflow?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [LabelFlow](https://github.com/labelflow/labelflow) | An open platform for image labeling ![](https://img.shields.io/github/stars/labelflow/labelflow?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
 | [labelme](https://github.com/wkentaro/labelme) | Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation) ![](https://img.shields.io/github/stars/wkentaro/labelme?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
 | [LabelImg](https://github.com/tzutalin/labelImg) | A graphical image annotation tool and label object bounding boxes in images ![](https://img.shields.io/github/stars/tzutalin/labelImg?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [LOST](https://github.com/l3p-cv/lost) | A flexible web-based framework for semi-automatic image annotation ![](https://img.shields.io/github/stars/l3p-cv/lost?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
