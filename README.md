@@ -55,6 +55,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [Annotation Lab](https://nlp.johnsnowlabs.com/docs/en/alab/quickstart) | An NLP annotation tool included in `spark-nlp` ![](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [brat](https://github.com/nlplab/brat) | brat aims to provide an intuitive and fast way to create text-bound and relational annotations ![](https://img.shields.io/github/stars/nlplab/brat?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [CoreNLP](https://github.com/stanfordnlp/CoreNLP) | A Java suite of core NLP tools ![](https://img.shields.io/github/stars/stanfordnlp/CoreNLP?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [DataQA](https://github.com/dataqa/dataqa) | Labeling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/dataqa?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [doccano](https://github.com/doccano/doccano) | An open source text annotation tool supporting text classification, sequence labeling and sequence to sequence tasks ![](https://img.shields.io/github/stars/doccano/doccano?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
