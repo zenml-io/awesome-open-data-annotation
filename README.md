@@ -72,6 +72,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [Annotorious](https://github.com/recogito/annotorious) | A JavaScript library for image annotation ![](https://img.shields.io/github/stars/recogito/annotorious?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
+| [Banksy](https://github.com/AboutGoods/Banksy-annotation-tool) | Banksy is an image annotation tool, outputting a dataset with NER (Named Entity Recognition), NEL (Named Entity Linking) and box region on image ![](https://img.shields.io/github/stars/AboutGoods/Banksy-annotation-tool?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [CATMAID](https://github.com/catmaid/CATMAID) | The Collaborative Annotation Toolkit for Massive Amounts of Image Data ![](https://img.shields.io/github/stars/catmaid/CATMAID?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [COCO Annotator](https://github.com/jsbroks/coco-annotator) | A web-based image segmentation tool for object detection, localization, and keypoints ![](https://img.shields.io/github/stars/jsbroks/coco-annotator?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) | A cross-platform desktop image annotation tool for machine learning ![](https://img.shields.io/github/stars/jveitchmichaelis/deeplabel?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
