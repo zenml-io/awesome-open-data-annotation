@@ -55,17 +55,27 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [Annotation Lab](https://nlp.johnsnowlabs.com/docs/en/alab/quickstart) | An NLP annotation tool included in `spark-nlp` ![](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [bulk](https://github.com/koaning/bulk) | Bulk is a quick developer tool to apply some bulk labels ![](https://img.shields.io/github/stars/koaning/bulk?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| MIT | 
 | [CoreNLP](https://github.com/stanfordnlp/CoreNLP) | A Java suite of core NLP tools ![](https://img.shields.io/github/stars/stanfordnlp/CoreNLP?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
-| [DataQA](https://github.com/dataqa/dataqa) | Labeling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/dataqa?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [DataQA](https://github.com/dataqa/nlp-labelling) | Labeling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/nlp-labelling?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [doccano](https://github.com/doccano/doccano) | An open source text annotation tool supporting text classification, sequence labeling and sequence to sequence tasks ![](https://img.shields.io/github/stars/doccano/doccano?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [FLAT - FoLiA Linguistic Annotation Tool](https://github.com/proycon/flat) | A web-based linguistic annotation environment based around the FoLiA format, an XML-based format for linguistic annotation ![](https://img.shields.io/github/stars/proycon/flat?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [INCEpTION](https://github.com/inception-project/inception) | A semantic annotation platform offering intelligent annotation assistance and knowledge management ![](https://img.shields.io/github/stars/inception-project/inception?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [knodle](https://github.com/knodle/knodle) | Knodle (Knowledge-supervised Deep Learning Framework) ![](https://img.shields.io/github/stars/knodle/knodle?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| Apache-2 |
 | [NER Annotator for Spacy](https://github.com/tecoholic/ner-annotator) | NER Annotator for SpaCy allows you to create training data for creating a custom NER Model with custom tags. ![](https://img.shields.io/github/stars/tecoholic/ner-annotator?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [NPLM](https://github.com/BatsResearch/nplm) | Noisy Partial Label Model(NPLM) ![](https://img.shields.io/github/stars/BatsResearch/nplm?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| N/A |
 | [Rubrix](https://github.com/recognai/rubrix) | A production-ready Python framework for exploring, annotating, and managing data in NLP projects ![](https://img.shields.io/github/stars/recognai/rubrix?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [SMART](https://github.com/RTIInternational/SMART) | A tool for building labeled training datasets for supervised machine learning tasks in NLP ![](https://img.shields.io/github/stars/RTIInternational/SMART?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [SpaCy annotator](https://github.com/ieriii/spacy-annotator) | Spacy NER annotator using ipywidgets ![](https://img.shields.io/github/stars/ieriii/spacy-annotator?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | N/A |
+| [Small-Text](https://github.com/webis-de/small-text) | Active Learning for Text Classification ![](https://img.shields.io/github/stars/webis-de/small-text?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Snorkel](https://github.com/snorkel-team/snorkel) | Programmatically Build and Manage Training Data ![](https://img.shields.io/github/stars/snorkel-team/snorkel?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [skweak](https://github.com/NorskRegnesentral/skweak) | skweak: Weak supervision for NLP ![](https://img.shields.io/github/stars/NorskRegnesentral/skweak?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| MIT |
 | [TALEN](https://github.com/CogComp/talen) | A way to do annotations for NER ![](https://img.shields.io/github/stars/CogComp/talen?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
 | [YEDDA](https://github.com/jiesutd/YEDDA) | A lightweight collaborative text span annotation tool ![](https://img.shields.io/github/stars/jiesutd/YEDDA?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
+| [WeaSEL](https://github.com/autonlab/weasel) | WeaSEL: Weakly Supervised End-to-end Learning ![](https://img.shields.io/github/stars/autonlab/weasel?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| Apache-2 |
+  
+
+
 
 # Images
 
