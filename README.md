@@ -73,7 +73,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | [TALEN](https://github.com/CogComp/talen) | A way to do annotations for NER ![](https://img.shields.io/github/stars/CogComp/talen?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
 | [YEDDA](https://github.com/jiesutd/YEDDA) | A lightweight collaborative text span annotation tool ![](https://img.shields.io/github/stars/jiesutd/YEDDA?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [WeaSEL](https://github.com/autonlab/weasel) | WeaSEL: Weakly Supervised End-to-end Learning ![](https://img.shields.io/github/stars/autonlab/weasel?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| Apache-2 |
-| [refinery](https://github.com/code-kern-ai/refinery) | The data scientist's open-source choice to scale, assess and maintain natural language data. ![](https://img.shields.io/github/stars/code-kern-ai/refinery?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)%7C Apache-2 |
+| [refinery](https://github.com/code-kern-ai/refinery) | The data scientist's open-source choice to scale, assess and maintain natural language data. ![](https://img.shields.io/github/stars/code-kern-ai/refinery?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
   
 
 
