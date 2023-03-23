@@ -127,6 +127,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | ---- | ----------- | ------- |
 | [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
+| [Quepid](https://github.com/o19s/quepid) | Gather Human Judgements (aka Explicit Ratings) for Search Quality.  Also a safe space to play with your search algorithm. ![](https://img.shields.io/github/stars/o19s/quepid?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 
 # Acknowledgements
 
