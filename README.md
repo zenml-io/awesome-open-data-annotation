@@ -81,6 +81,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
+| [3D Slicer](https://www.slicer.org) | Visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes ![](https://img.shields.io/github/stars/Slicer/Slicer?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD |
 | [Annotorious](https://github.com/recogito/annotorious) | A JavaScript library for image annotation ![](https://img.shields.io/github/stars/recogito/annotorious?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
 | [CATMAID](https://github.com/catmaid/CATMAID) | The Collaborative Annotation Toolkit for Massive Amounts of Image Data ![](https://img.shields.io/github/stars/catmaid/CATMAID?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [COCO Annotator](https://github.com/jsbroks/coco-annotator) | A web-based image segmentation tool for object detection, localization, and keypoints ![](https://img.shields.io/github/stars/jsbroks/coco-annotator?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
@@ -94,6 +95,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | [LabelImg](https://github.com/tzutalin/labelImg) | A graphical image annotation tool and label object bounding boxes in images ![](https://img.shields.io/github/stars/tzutalin/labelImg?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [LOST](https://github.com/l3p-cv/lost) | A flexible web-based framework for semi-automatic image annotation ![](https://img.shields.io/github/stars/l3p-cv/lost?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Make Sense](https://github.com/SkalskiP/make-sense) | A free-to-use online tool for labeling photos ![](https://img.shields.io/github/stars/SkalskiP/make-sense?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
+| [OHIF Medical Imaging Viewer](https://github.com/OHIF/Viewers) | OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker ![](https://img.shields.io/github/stars/OHIF/Viewers?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [OpenLabeler](https://github.com/kinhong/OpenLabeler) | An open source desktop application for annotating objects for AI appplications ![](https://img.shields.io/github/stars/kinhong/OpenLabeler?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [Pixano](https://github.com/pixano/pixano-app) | A web-based smart-annotation tool for computer vision applications ![](https://img.shields.io/github/stars/pixano/pixano-app?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | CeCILL-C |
 | [Scalabel](https://github.com/scalabel/scalabel) | A web-based visual data annotation tool, supporting both 2D and 3D data labeling ![](https://img.shields.io/github/stars/scalabel/scalabel?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
@@ -125,6 +127,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
+| [Encord Active](https://github.com/encord-team/encord-active/) | Toolkit to test, validate, and evaluate your models and surface, curate, and prioritize the most valuable data for labeling ![](https://img.shields.io/github/stars/encord-team/encord-active?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [OpenCRAVAT](https://github.com/KarchinLab/open-cravat) | A modular annotation tool for genomic variants ![](https://img.shields.io/github/stars/KarchinLab/open-cravat?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Personal Cancer Genome Reporter (PCGR)](https://github.com/sigven/pcgr) | A stand-alone software package for translation of individual tumor genomes for precision cancer medicine ![](https://img.shields.io/github/stars/sigven/pcgr?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Quepid](https://github.com/o19s/quepid) | Gather Human Judgements (aka Explicit Ratings) for Search Quality.  Also a safe space to play with your search algorithm. ![](https://img.shields.io/github/stars/o19s/quepid?color=green&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
