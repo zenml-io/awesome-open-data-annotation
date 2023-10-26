@@ -36,6 +36,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [Acharya](https://github.com/astutic/Acharya) | A Data Centric MLOps tool for your Named Entity Recognition projects ![](https://img.shields.io/github/stars/astutic/Acharya?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | ? |
+| [Adala](https://github.com/HumanSignal/Adala) | An Autonomous Data (Labeling) Agent framework. ![](https://img.shields.io/github/stars/HumanSignal/Adala?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [Classifai](https://github.com/CertifaiAI/classifai) | A comprehensive open-source data annotation platform ![](https://img.shields.io/github/stars/CertifaiAI/classifai?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat) | A free, online, interactive video and image annotation tool for computer vision ![](https://img.shields.io/github/stars/openvinotoolkit/cvat?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Data Annotator for Machine Learning (DAML)](https://github.com/vmware/data-annotator-for-machine-learning) | An application that helps machine learning teams facilitating the creation and management of annotations ![](https://img.shields.io/github/stars/vmware/data-annotator-for-machine-learning?color=black&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
