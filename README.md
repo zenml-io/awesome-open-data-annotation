@@ -74,6 +74,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | [Snorkel](https://github.com/snorkel-team/snorkel) | Programmatically Build and Manage Training Data ![](https://img.shields.io/github/stars/snorkel-team/snorkel?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [skweak](https://github.com/NorskRegnesentral/skweak) | skweak: Weak supervision for NLP ![](https://img.shields.io/github/stars/NorskRegnesentral/skweak?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| MIT |
 | [TALEN](https://github.com/CogComp/talen) | A way to do annotations for NER ![](https://img.shields.io/github/stars/CogComp/talen?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Custom |
+| [Theme](https://github.com/Oxid15/theme) | Minimalistic CLI labeling tool for text classification ![](https://img.shields.io/github/stars/Oxid15/theme?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [YEDDA](https://github.com/jiesutd/YEDDA) | A lightweight collaborative text span annotation tool ![](https://img.shields.io/github/stars/jiesutd/YEDDA?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [WeaSEL](https://github.com/autonlab/weasel) | WeaSEL: Weakly Supervised End-to-end Learning ![](https://img.shields.io/github/stars/autonlab/weasel?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| Apache-2 |
 
