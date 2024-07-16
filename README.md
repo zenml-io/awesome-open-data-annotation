@@ -137,7 +137,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
-| [sktime](https://www.sktime.org/en/stable/index.html) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/alan-turing-institute/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
+| [sktime](https://github.com/sktime/sktime) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/sktime/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
 
 # Other
 
