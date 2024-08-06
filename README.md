@@ -90,6 +90,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [3D Slicer](https://www.slicer.org) | Visualization, processing, segmentation, registration, and analysis of medical, biomedical, and other 3D images and meshes ![](https://img.shields.io/github/stars/Slicer/Slicer?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD |
+| [Annotate Lab](https://github.com/sumn2u/annotate-lab) | Simplifying Image Annotation ![](https://img.shields.io/github/stars/sumn2u/annotate-lab?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [Annotorious](https://github.com/recogito/annotorious) | A JavaScript library for image annotation ![](https://img.shields.io/github/stars/recogito/annotorious?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
 | [AnyLabeling](https://github.com/vietanhdev/anylabeling) | Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM ![](https://img.shields.io/github/stars/vietanhdev/anylabeling?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [autodistill](https://github.com/autodistill/autodistill) | Images to inference with no labeling (use foundation models to train supervised models) ![](https://img.shields.io/github/stars/autodistill/autodistill?color=purple&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
