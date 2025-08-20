@@ -59,7 +59,6 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 | Name | Description | License |
 | ---- | ----------- | ------- |
 | [Annotation Lab](https://nlp.johnsnowlabs.com/docs/en/alab/quickstart) | An NLP annotation tool included in `spark-nlp` ![](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
-| [Argilla](https://github.com/argilla-io/argilla) | A production-ready Python framework for exploring, annotating, and managing data in NLP projects ![](https://img.shields.io/github/stars/argilla-io/argilla?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [bulk](https://github.com/koaning/bulk) | Bulk is a quick developer tool to apply some bulk labels ![](https://img.shields.io/github/stars/koaning/bulk?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic)| MIT | 
 | [CoreNLP](https://github.com/stanfordnlp/CoreNLP) | A Java suite of core NLP tools ![](https://img.shields.io/github/stars/stanfordnlp/CoreNLP?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [DataQA](https://github.com/dataqa/nlp-labelling) | Labeling platform for text using weak supervision ![](https://img.shields.io/github/stars/dataqa/nlp-labelling?color=white&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
