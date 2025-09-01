@@ -123,6 +123,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
+| [Chitralekha](https://github.com/AI4Bharat/Chitralekha) | An open source video transcreation tool ![](https://img.shields.io/github/stars/AI4Bharat/Chitralekha?color=orange&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 | [DIVE](https://github.com/Kitware/dive) | Media annotation and analysis tools for web and desktop ![](https://img.shields.io/github/stars/Kitware/dive?color=orange&label=%E2%AD%90%EF%B8%8F&style=plastic) | Apache-2 |
 | [UltimateLabeling](https://github.com/alexandre01/UltimateLabeling) | A multi-purpose Video Labeling GUI in Python with integrated SOTA detector and tracker ![](https://img.shields.io/github/stars/alexandre01/UltimateLabeling?color=orange&label=%E2%AD%90%EF%B8%8F&style=plastic) | MIT |
 
