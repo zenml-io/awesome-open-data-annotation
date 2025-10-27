@@ -141,6 +141,7 @@ Slack](https://zenml.io/slack-invite/) and leave us a message!
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
+| [CardioMark](https://github.com/CardioMark/CardioMark) | An open-source MATLAB toolbox for ECG annotation for machine learning and academic research ![](https://img.shields.io/github/stars/CardioMark/CardioMark?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | GPL-3 |
 | [sktime](https://github.com/sktime/sktime) | A framework for machine learning with time series ![](https://img.shields.io/github/stars/sktime/sktime?color=blue&label=%E2%AD%90%EF%B8%8F&style=plastic) | BSD-3 |
 
 # Other
